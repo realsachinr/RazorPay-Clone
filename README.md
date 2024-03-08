@@ -1,4 +1,5 @@
-This RazorPay is made from HTML and Tailwind CSS.
+
+The RazorPay Clone is a sleek and responsive payment processing interface built with HTML and Tailwind CSS. It offers a minimalist design, intuitive navigation, and secure transaction handling, mirroring the functionality of the original RazorPay platform. The clone is fully responsive, ensuring a seamless user experience across various devices.
 Deployed -   https://razor-pay-clone-five-kappa.vercel.app/
 ========If you want to use this clone? to use this code in the terminal.=========
 1) npm install -D tailwindcss postcss autoprefixer vite
